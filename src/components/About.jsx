@@ -7,7 +7,7 @@ const About = () => {
   ];
 
   const googleDriveLink =
-    "https://drive.google.com/file/d/1Mas73JS8TKf_5ik33AG8l_Wt89wEarqc/view?usp=sharing";
+    "https://drive.google.com/file/d/1Mas73JS8TKf_5ik33AG8l_Wt89wEarqc/view";
 
   const navigateToResume = () => {
     window.open(googleDriveLink, "_blank");
